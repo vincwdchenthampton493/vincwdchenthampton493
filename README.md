@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm vincwdchenthampton493
 
-<!--
-**vincwdchenthampton493/vincwdchenthampton493** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎭 🥁 🚀 Looking to collaborate on tech reviews 🎭 🥁 🚀
 
-Here are some ideas to get you started:
+## About Me
+🚴 🛹 🎯 🎭 A passionate developer who loves UI/UX design 🚴 🛹 🎯 🎭
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🛹 🎯 Obsessed with agile methodology 🛹 🎯
+
+### Fun Facts
+💡 🌈 🥋 🎳 Hacking on robotics 💡 🌈 🥋 🎳
+
+---
+🎯 🎤 🛹 🏏 🏏 Thanks for visiting my profile! 🥋 🏏 🎤 💡 🎣
